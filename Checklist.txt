@@ -1,0 +1,26 @@
+                     				Тестеровщик 1	   Тестеровщик 2
+Сайт "name.example"  
+		     				Firefox Browser       Google Chrome
+                        			   70.0.1             78.0.3904.108
+РЕГИСТРАЦИЯ
+
+Email						Passed		      Passed
+Соцсети						Failed		      Passed
+Валидация полей					Passed		      Passed
+
+АВТОРИЗАЦИЯ
+
+Пользователь активирован			Passed		      Passed
+Пользователь не активирован			Passed		      Skipped
+Восстановление пароля				Passed		      No run
+Валтдация полей					Passed		      Failed
+
+ПРОФИЛЬ
+
+Изменение имени					Passed		      Passed
+Изменение email					Failed		      Skipped
+Изменение пароля				Failed		      Passed
+Валидация полей					Passed		      Skipped
+Подписка					Failed		      Passed
+Удаление аккаунта				No run		      No run
+
